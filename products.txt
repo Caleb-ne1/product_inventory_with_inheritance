@@ -1,0 +1,4 @@
+electronic,Tecno Spark 20 128GB,14599,12
+electronic,Hp ProBook 430,24999,24
+non-electronic,Desk Lamp,599
+non-electronic,Car Grip Non Slip Anti slide Dash cell phone mount,541
